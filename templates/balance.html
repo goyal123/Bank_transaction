@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title> Tabl </title>
+		<style>
+         table, tr,th,td {
+            border: 1px solid black;
+         }
+      </style>
+		
+	</head>
+<body>
+
+<p>{{message}}</p>
+
+<table>	
+<!-- For loop logic of jinja template -->
+<tr>
+            <th>&nbsp&nbsp&nbsp&nbsp&nbsp&nbspAccount&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</th>
+			
+            <th>&nbsp&nbsp&nbsp&nbsp&nbsp&nbspDate&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</th>
+			
+			<th>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspTransaction&nbspDetails&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</th>
+
+			<th>&nbsp&nbsp&nbsp&nbsp&nbspBalance&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</th>
+         </tr>
+
+    <tr>
+	<td>&nbsp&nbsp{{account}}&nbsp&nbsp</td>
+	<td>&nbsp&nbsp{{date}}&nbsp&nbsp</td>
+	<td>&nbsp&nbsp{{transaction}}&nbsp&nbsp</td>
+	<td>&nbsp&nbsp{{balance}}&nbsp&nbsp</td>
+	</tr>
+ 
+</table> 
+     	
+</body>
+</html>

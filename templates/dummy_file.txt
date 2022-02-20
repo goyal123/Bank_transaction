@@ -1,0 +1,264 @@
+Account No                           409000611074
+Date                          2017-08-16 00:00:00
+Transaction Details    FDRL/INTERNAL FUND TRANSFE
+Value Date                              16 Aug 17
+Withdrawal AMT                                   
+Deposit AMT                           5,00,000.00
+Balance AMT                          60,00,000.00
+Name: 4, dtype: object
+Account No                           409000611074
+Date                          2017-08-16 00:00:00
+Transaction Details    FDRL/INTERNAL FUND TRANSFE
+Value Date                              16 Aug 17
+Withdrawal AMT                                   
+Deposit AMT                           5,00,000.00
+Balance AMT                          65,00,000.00
+Name: 5, dtype: object
+Account No                           409000611074
+Date                          2017-08-16 00:00:00
+Transaction Details    FDRL/INTERNAL FUND TRANSFE
+Value Date                              16 Aug 17
+Withdrawal AMT                                   
+Deposit AMT                           5,00,000.00
+Balance AMT                          70,00,000.00
+Name: 6, dtype: object
+Account No                           409000611074
+Date                          2017-08-16 00:00:00
+Transaction Details    FDRL/INTERNAL FUND TRANSFE
+Value Date                              16 Aug 17
+Withdrawal AMT                                   
+Deposit AMT                           5,00,000.00
+Balance AMT                          75,00,000.00
+Name: 7, dtype: object
+Account No                           409000611074
+Date                          2017-08-16 00:00:00
+Transaction Details    FDRL/INTERNAL FUND TRANSFE
+Value Date                              16 Aug 17
+Withdrawal AMT                                   
+Deposit AMT                           5,00,000.00
+Balance AMT                          80,00,000.00
+Name: 8, dtype: object
+Account No                           409000611074
+Date                          2017-08-16 00:00:00
+Transaction Details    FDRL/INTERNAL FUND TRANSFE
+Value Date                              16 Aug 17
+Withdrawal AMT                                   
+Deposit AMT                           5,00,000.00
+Balance AMT                          85,00,000.00
+Name: 9, dtype: object
+Account No                                 409000611074
+Date                                2017-08-16 00:00:00
+Transaction Details    INDO GIBL Indiaforensic STL01071
+Value Date                                    16 Aug 17
+Withdrawal AMT                              1,33,900.00
+Deposit AMT                                            
+Balance AMT                                83,66,100.00
+Name: 10, dtype: object
+Account No                                 409000611074
+Date                                2017-08-16 00:00:00
+Transaction Details    INDO GIBL Indiaforensic STL02071
+Value Date                                    16 Aug 17
+Withdrawal AMT                                18,000.00
+Deposit AMT                                            
+Balance AMT                                83,48,100.00
+Name: 11, dtype: object
+Account No                                 409000611074
+Date                                2017-08-16 00:00:00
+Transaction Details    INDO GIBL Indiaforensic STL03071
+Value Date                                    16 Aug 17
+Withdrawal AMT                                 5,000.00
+Deposit AMT                                            
+Balance AMT                                83,43,100.00
+Name: 12, dtype: object
+Account No                                 409000611074
+Date                                2017-08-16 00:00:00
+Transaction Details    INDO GIBL Indiaforensic STL04071
+Value Date                                    16 Aug 17
+Withdrawal AMT                              1,95,800.00
+Deposit AMT                                            
+Balance AMT                                81,47,300.00
+Name: 13, dtype: object
+Account No                                 409000611074
+Date                                2017-08-16 00:00:00
+Transaction Details    INDO GIBL Indiaforensic STL05071
+Value Date                                    16 Aug 17
+Withdrawal AMT                                81,600.00
+Deposit AMT                                            
+Balance AMT                                80,65,700.00
+Name: 14, dtype: object
+Account No                                 409000611074
+Date                                2017-08-16 00:00:00
+Transaction Details    INDO GIBL Indiaforensic STL06071
+Value Date                                    16 Aug 17
+Withdrawal AMT                                41,800.00
+Deposit AMT                                            
+Balance AMT                                80,23,900.00
+Name: 15, dtype: object
+Account No                                 409000611074
+Date                                2017-08-16 00:00:00
+Transaction Details    INDO GIBL Indiaforensic STL07071
+Value Date                                    16 Aug 17
+Withdrawal AMT                                98,500.00
+Deposit AMT                                            
+Balance AMT                                79,25,400.00
+Name: 16, dtype: object
+Account No                                 409000611074
+Date                                2017-08-16 00:00:00
+Transaction Details    INDO GIBL Indiaforensic STL10071
+Value Date                                    16 Aug 17
+Withdrawal AMT                              1,43,800.00
+Deposit AMT                                            
+Balance AMT                                77,81,600.00
+Name: 17, dtype: object
+Account No                                 409000611074
+Date                                2017-08-16 00:00:00
+Transaction Details    INDO GIBL Indiaforensic STL11071
+Value Date                                    16 Aug 17
+Withdrawal AMT                              3,31,650.00
+Deposit AMT                                            
+Balance AMT                                74,49,950.00
+Name: 18, dtype: object
+Account No                                 409000611074
+Date                                2017-08-16 00:00:00
+Transaction Details    INDO GIBL Indiaforensic STL12071
+Value Date                                    16 Aug 17
+Withdrawal AMT                              1,29,000.00
+Deposit AMT                                            
+Balance AMT                                73,20,950.00
+Name: 19, dtype: object
+Account No                                 409000611074
+Date                                2017-08-16 00:00:00
+Transaction Details    INDO GIBL Indiaforensic STL13071
+Value Date                                    16 Aug 17
+Withdrawal AMT                              2,30,013.00
+Deposit AMT                                            
+Balance AMT                                70,90,937.00
+Name: 20, dtype: object
+Account No                                 409000611074
+Date                                2017-08-16 00:00:00
+Transaction Details    INDO GIBL Indiaforensic STL14071
+Value Date                                    16 Aug 17
+Withdrawal AMT                              3,67,900.00
+Deposit AMT                                            
+Balance AMT                                67,23,037.00
+Name: 21, dtype: object
+Account No                                 409000611074
+Date                                2017-08-16 00:00:00
+Transaction Details    INDO GIBL Indiaforensic STL15071
+Value Date                                    16 Aug 17
+Withdrawal AMT                              1,08,000.00
+Deposit AMT                                            
+Balance AMT                                66,15,037.00
+Name: 22, dtype: object
+Account No                                 409000611074
+Date                                2017-08-16 00:00:00
+Transaction Details    INDO GIBL Indiaforensic STL16071
+Value Date                                    16 Aug 17
+Withdrawal AMT                                64,800.00
+Deposit AMT                                            
+Balance AMT                                65,50,237.00
+Name: 23, dtype: object
+Account No                                 409000611074
+Date                                2017-08-16 00:00:00
+Transaction Details    INDO GIBL Indiaforensic STL17071
+Value Date                                    16 Aug 17
+Withdrawal AMT                              1,41,000.00
+Deposit AMT                                            
+Balance AMT                                64,09,237.00
+Name: 24, dtype: object
+Account No                                 409000611074
+Date                                2017-08-16 00:00:00
+Transaction Details    INDO GIBL Indiaforensic STL18071
+Value Date                                    16 Aug 17
+Withdrawal AMT                                61,750.00
+Deposit AMT                                            
+Balance AMT                                63,47,487.00
+Name: 25, dtype: object
+Account No                                 409000611074
+Date                                2017-08-16 00:00:00
+Transaction Details    INDO GIBL Indiaforensic STL19071
+Value Date                                    16 Aug 17
+Withdrawal AMT                                67,920.00
+Deposit AMT                                            
+Balance AMT                                62,79,567.00
+Name: 26, dtype: object
+Account No                                 409000611074
+Date                                2017-08-16 00:00:00
+Transaction Details    INDO GIBL Indiaforensic STL20071
+Value Date                                    16 Aug 17
+Withdrawal AMT                                78,100.00
+Deposit AMT                                            
+Balance AMT                                62,01,467.00
+Name: 27, dtype: object
+Account No                                 409000611074
+Date                                2017-08-16 00:00:00
+Transaction Details    INDO GIBL Indiaforensic STL21071
+Value Date                                    16 Aug 17
+Withdrawal AMT                                35,650.00
+Deposit AMT                                            
+Balance AMT                                61,65,817.00
+Name: 28, dtype: object
+Account No                                 409000611074
+Date                                2017-08-16 00:00:00
+Transaction Details    INDO GIBL Indiaforensic STL22071
+Value Date                                    16 Aug 17
+Withdrawal AMT                              2,06,000.00
+Deposit AMT                                            
+Balance AMT                                59,59,817.00
+Name: 29, dtype: object
+Account No                                 409000611074
+Date                                2017-08-16 00:00:00
+Transaction Details    INDO GIBL Indiaforensic STL24071
+Value Date                                    16 Aug 17
+Withdrawal AMT                                35,300.00
+Deposit AMT                                            
+Balance AMT                                59,24,517.00
+Name: 30, dtype: object
+Account No                                 409000611074
+Date                                2017-08-16 00:00:00
+Transaction Details    INDO GIBL Indiaforensic STL25071
+Value Date                                    16 Aug 17
+Withdrawal AMT                                49,800.00
+Deposit AMT                                            
+Balance AMT                                58,74,717.00
+Name: 31, dtype: object
+Account No                                 409000611074
+Date                                2017-08-16 00:00:00
+Transaction Details    INDO GIBL Indiaforensic STL26071
+Value Date                                    16 Aug 17
+Withdrawal AMT                                53,000.00
+Deposit AMT                                            
+Balance AMT                                58,21,717.00
+Name: 32, dtype: object
+Account No                                 409000611074
+Date                                2017-08-16 00:00:00
+Transaction Details    INDO GIBL Indiaforensic STL27071
+Value Date                                    16 Aug 17
+Withdrawal AMT                                91,300.00
+Deposit AMT                                            
+Balance AMT                                57,30,417.00
+Name: 33, dtype: object
+Account No                                 409000611074
+Date                                2017-08-16 00:00:00
+Transaction Details    INDO GIBL Indiaforensic STL28071
+Value Date                                    16 Aug 17
+Withdrawal AMT                                57,499.00
+Deposit AMT                                            
+Balance AMT                                56,72,918.00
+Name: 34, dtype: object
+Account No                                 409000611074
+Date                                2017-08-16 00:00:00
+Transaction Details    INDO GIBL Indiaforensic STL30071
+Value Date                                    16 Aug 17
+Withdrawal AMT                                20,000.00
+Deposit AMT                                            
+Balance AMT                                56,52,918.00
+Name: 35, dtype: object
+Account No                                 409000611074
+Date                                2017-08-16 00:00:00
+Transaction Details    INDO GIBL Indiaforensic STL31071
+Value Date                                    16 Aug 17
+Withdrawal AMT                                19,400.00
+Deposit AMT                                            
+Balance AMT                                56,33,518.00
+Name: 36, dtype: object

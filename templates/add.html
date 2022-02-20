@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title> Tabl </title>	
+	</head>
+<body>
+<h3>{{message}}</h3>	
+<form method="POST" id="form1">
+
+<label for="acnt">Acount_no:</label>
+<input type="number" id="acnt" name="acnt" value="409000611074" onkeypress="return event.charCode >= 48" min="0" required><br><br>
+
+<label for="t_det">Enter Transaction Detail:</label>
+<input type="text" id="t_det" name="t_det" required ><br><br>
+
+<label for="fname">Enter Date:</label>
+<input type="date" id="fname" name="fname" required><br><br>
+
+<label for="withdraw">Withdraw:</label>
+<input type="number" id="withdraw" name="withdraw" value="0" onkeypress="return event.charCode >= 48" min="0"><br><br>
+
+<label for="credit">Deposit:</label>
+<input type="number" id="credit" name="credit" value="0" onkeypress="return event.charCode >= 48" min="0" ><br><br>
+
+</form>
+
+<button type="submit" form="form1" value="Submit">Submit</button>
+    
+</body>
+</html>
